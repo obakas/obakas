@@ -3,15 +3,15 @@ I’m a software engineer with a thing for clean architecture, sharp interfaces,
 
 I’m big on:
 
-* Item one Blockchain development (Ethereum & Solana – I like both sides of the coin)
+* Blockchain development (Ethereum & Solana – I like both sides of the coin)
 
-* Item two Full-stack engineering (Next.js, React, TypeScript, Node, the usual suspects)
+* Full-stack engineering (Next.js, React, TypeScript, Node, the usual suspects)
 
-* Item three Smart contract integrations
+* Smart contract integrations
 
-* Item four Data analysis and structuring chaos into clarity
+* Data analysis and structuring chaos into clarity
 
-* Item five Building tools that make life easier for real users
+* Building tools that make life easier for real users
 
 Right now, I’m pushing myself toward becoming a world-class dev — the kind of engineer whose repos speak louder than their résumé. Freelance, startup, enterprise… wherever the challenge is, I’m game.
 
