@@ -1,5 +1,21 @@
 # 💫 About Me:
-💻 Full-Stack Blockchain Developer | 6+ years of experience in Solidity, Ethereum, and AWS. Passionate about smart contracts, DeFi, & open-source innovation.
+I’m a software engineer with a thing for clean architecture, sharp interfaces, and systems that actually work the way people expect. By day, I manage data at the ICRC; by night, I chase down blockchain ideas, build web apps, and polish my craft like it’s a long-term investment.
+
+I’m big on:
+
+Blockchain development (Ethereum & Solana – I like both sides of the coin)
+
+Full-stack engineering (Next.js, React, TypeScript, Node, the usual suspects)
+
+Smart contract integrations
+
+Data analysis and structuring chaos into clarity
+
+Building tools that make life easier for real users
+
+Right now, I’m pushing myself toward becoming a world-class dev — the kind of engineer whose repos speak louder than their résumé. Freelance, startup, enterprise… wherever the challenge is, I’m game.
+
+If you’re into clean code, wild ideas, or collaboration that actually ships, I’m around.
 
 
 # 💻 Tech Stack:
